@@ -1,6 +1,6 @@
 # BECamp12-1
 
-## 作業說明：
+## 作業說明：wade hoelele
 - 這是一份程式語言基本的語法訓練，共有四題。其中第四題難度較高，要不要作請自己評估。
 - 可以使用 PHP, Javascript, Typescript
 - 每一題都需要寫測試
